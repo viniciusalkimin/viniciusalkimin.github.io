@@ -2,7 +2,7 @@
 		color: #000;
 		font-weight: bold;
 		font-style: italic;
-		font-family: Lucida Handwriting;	
+		font-family: "Trebuchet MS", Helvetica, sans-serif;	
 		}
 		h2{
 		color: #000;	
@@ -28,7 +28,7 @@
 			
 		width: 200px;
 		background-color: darkgrey;	
-		font-family: Lucida Handwriting;		
+		font-family: "Trebuchet MS", Helvetica, sans-serif;		
 		}
 		.head{
 			width: 920px;
